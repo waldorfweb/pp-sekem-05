@@ -1,10 +1,10 @@
 {
-    "name": "Waldorfshop4",
+    "name": "Sekem5",
     "license": "AGPL-3.0",
-    "version": "5.0.51",
+    "version": "5.0.53",
     "repository": {
         "type": "git",
-        "url": "https://github.com/waldorfweb/pp-waldorfshop-04.git"
+        "url": "https://github.com/waldorfweb/pp-sekem-05.git"
     },
     "scripts": {
         "start": "webpack --watch --progress",
@@ -68,7 +68,7 @@
     },
     "dependencies": {
         "bootstrap": "4.4.1",
-        "Ceres": "git+https://git@github.com/plentymarkets/plugin-ceres.git#5.0.51",
+        "Ceres": "git+https://git@github.com/plentymarkets/plugin-ceres.git#5.0.55",
         "core-js": "^3.6.5",
         "custom-event-polyfill": "^1.0.0",
         "dayjs": "^1.8.26",
